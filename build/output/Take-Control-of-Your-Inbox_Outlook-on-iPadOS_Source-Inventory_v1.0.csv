@@ -18,8 +18,9 @@ AGENTS.md,.md,repository file,no,yes,527,7de405cc9c24b9cedf3daf28ac2942e9354ef6a
 BCBSKS-ID-Prompt-Guide-v4.0.md,.md,required source,yes,yes,73152,f8d4ecfbb7b5e7bd4ab55fc9ffdb8a18632fac57a246f2fc98060ef04217d499,required source
 BCBSKS_Master_Brand_Kit.md,.md,required source,yes,yes,32470,90bf385bbda69becbe5fd701238b0b0787b011eeb75eac25aa74c7950d434021,required source
 README.md,.md,repository file,no,yes,37,e3d8d7a8db34e55269374434bece5bba0dd502c5bb742a472f179357b44a36ab,repository file
-build/README.md,.md,repository file,no,yes,531,5bb2434996c512514b792b2f57ce1b991b0d604f508484db739067f69a6de8e5,repository file
+build/README.md,.md,repository file,no,yes,2542,3308139e4a31ff06aae8cbd0a09e5aa0a150fd79c1071998e122098148412954,repository file
 build/build_ipados_guide.py,.py,repository file,no,yes,13627,11d03f40f325b469a8ba523b0be33d6e6fa430a3fbab28aa237de6786ea7461d,repository file
+build/build_supplemental_assets.py,.py,repository file,no,yes,6891,e0f8249d1771f48d81e835f625672b93e5c6681acb1b8cc7ae5b9fa78e76abf9,repository file
 build/requirements.txt,.txt,repository file,no,yes,34,a702992203b77c4b7d483571a18ddd080a044c8aed297f18123091f057de6d21,repository file
 build/src/accessibility.py,.py,repository file,no,yes,206,dc6736584b85be21a5da753866f9daeb55e39373baae24b739f29a1406056c95,repository file
 build/src/copy_parser.py,.py,repository file,no,yes,1380,3f05b452ef0c00900e6fe63e47822a8b07b046a8b854d2c071da9998b0294aa9,repository file
