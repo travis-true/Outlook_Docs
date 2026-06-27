@@ -1,16 +1,7 @@
-# Generated Word/PDF/ZIP/XLSX deliverables are created locally by build commands.
+# Generated Word/PDF deliverables are created locally by the build command.
 build/output/*.docx
 build/output/*.pdf
-build/output/**/*.docx
-build/output/**/*.pdf
-build/output/**/*.xlsx
-build/output/**/*.zip
 
 # Python cache files
 __pycache__/
 *.py[cod]
-
-# Volatile generated validation summaries include timestamps/commit ids and are regenerated locally.
-build/output/supplemental-assets/04-validation-reports/supplemental-assets-validation-report.md
-# Generated supplemental inventories are rebuilt locally and are not stable across branches.
-build/output/supplemental-assets/04-validation-reports/source-inventory.csv
