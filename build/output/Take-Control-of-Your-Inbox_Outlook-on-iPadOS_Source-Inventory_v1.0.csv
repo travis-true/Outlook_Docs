@@ -1,0 +1,32 @@
+path,file_type,purpose,required,found,size,sha256,used_as
+.codex/skills/generate-training-guide/skill.md,.md,repository file,no,yes,2917,4242207eda3084defc3188928b641b69c5b5595b1d8babff800bb9b8b482a1b7,repository file
+.gitignore,none,repository file,no,yes,160,43bf9882fb692eb91aa346462b2443388cde5c631a43a0c2cd97c8c006581c96,repository file
+01. Locked scope for the guide.md,.md,required source,yes,yes,25777,69972ee56b826f91361a5873e30af56116a788b0708e0efc665c68c7615e7253,required source
+02. Detailed build plan.md,.md,required source,yes,yes,36272,0c8d4a680140d6cb442507b7f249834852f47b576196c47f3eb150261955c0ba,required source
+03. Page-by-page copy plan.md,.md,required source,yes,yes,36765,693d87386193665bc602b03ea61f8d88ee2eea6f993ef3586a58c3e99a556f8d,required source
+04. Complete copy deck — Part 1.md,.md,required source,yes,yes,44740,9392f463986a67009d585ced6bf389b00ec48e089cc07995c0fda3d2e0205c25,required source
+05. Complete copy deck — Part 2.md,.md,required source,yes,yes,34076,912a81a42fcf1958e4632598c6361528f05bf1ff893221bd745a9535cd15bb10,required source
+06. Complete copy deck — Part 3.md,.md,required source,yes,yes,37048,f14ab78afd38bf81ba5ada781b9d8cce3def6e9e814c119ac400cd4cf46bd0e1,required source
+07. Complete copy deck — Part 4.md,.md,required source,yes,yes,33867,05668038c406ecb0974ada6b57c554251c6ebafaeb81bcc420bcdf1e3a08b5cf,required source
+08. Complete copy deck — Part 5.md,.md,required source,yes,yes,33439,f8264d1618b96dbc6c66e5615f062fc11e2786d3337588b20a543869fee14cd0,required source
+09. Complete copy deck — Part 6.md,.md,required source,yes,yes,28681,4509da77ca1a90f5700761d19aaa7ebd5a9888d188cf8a500cf4bad7c512d1c8,required source
+10. Screenshot capture and annotation plan.md,.md,required source,yes,yes,31997,0d70759e8c104e868a4263813f910722dc29fe60a7025683444ccb2a1fa13cb7,required source
+11. Platform-difference and master-guide integration map.md,.md,required source,yes,yes,38018,b2b92240fb64925c110a4742ea5471ca13942bc0d7a094457176271b09594859,required source
+12. Word production and publishing plan.md,.md,required source,yes,yes,35094,a8323b666bc712c5d8d118de2dd2208e48d713d48cee254d918dffe7cb540ab4,required source
+13. Supplemental support package.md,.md,required source,yes,yes,37817,14d37bfe8530551216d2847e1da626a7e4c9d9f45a04ca1e380b489083bc6a99,required source
+AGENTS.md,.md,repository file,no,yes,527,7de405cc9c24b9cedf3daf28ac2942e9354ef6aa5688f96fbaa3b2bba9e3bad4,repository file
+BCBSKS-ID-Prompt-Guide-v4.0.md,.md,required source,yes,yes,73152,f8d4ecfbb7b5e7bd4ab55fc9ffdb8a18632fac57a246f2fc98060ef04217d499,required source
+BCBSKS_Master_Brand_Kit.md,.md,required source,yes,yes,32470,90bf385bbda69becbe5fd701238b0b0787b011eeb75eac25aa74c7950d434021,required source
+README.md,.md,repository file,no,yes,37,e3d8d7a8db34e55269374434bece5bba0dd502c5bb742a472f179357b44a36ab,repository file
+build/README.md,.md,repository file,no,yes,531,5bb2434996c512514b792b2f57ce1b991b0d604f508484db739067f69a6de8e5,repository file
+build/build_ipados_guide.py,.py,repository file,no,yes,13627,11d03f40f325b469a8ba523b0be33d6e6fa430a3fbab28aa237de6786ea7461d,repository file
+build/requirements.txt,.txt,repository file,no,yes,34,a702992203b77c4b7d483571a18ddd080a044c8aed297f18123091f057de6d21,repository file
+build/src/accessibility.py,.py,repository file,no,yes,206,dc6736584b85be21a5da753866f9daeb55e39373baae24b739f29a1406056c95,repository file
+build/src/copy_parser.py,.py,repository file,no,yes,1380,3f05b452ef0c00900e6fe63e47822a8b07b046a8b854d2c071da9998b0294aa9,repository file
+build/src/docx_components.py,.py,repository file,no,yes,2924,b0288ae2c7f3b78e80f35df5b41a4cf419f2603487515ae2f9c4e74f15e15279,repository file
+build/src/docx_styles.py,.py,repository file,no,yes,1153,295a8d8296cc6ce4b91ba24e86690ffed088ecf91976b88d664bdfa424e1d678,repository file
+build/src/source_loader.py,.py,repository file,no,yes,2869,163036862b78b04f98f15100ec3b2cb741668dbcf518c839d1f3322646eb89ca,repository file
+build/src/utilities.py,.py,repository file,no,yes,707,539e72b8b91d52400166c0447d5d40cf83ba7eb536fd40c6d7ba19e0d9940bac,repository file
+build/src/validation.py,.py,repository file,no,yes,922,be58822dcb752310693292fd27558dad188e373ababf9e71595eadbc90d0b065,repository file
+docs/first,none,repository file,no,yes,1,01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b,repository file
+docs/training/first,none,repository file,no,yes,1,01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b,repository file
