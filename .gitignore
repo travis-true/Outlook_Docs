@@ -12,3 +12,5 @@ __pycache__/
 
 # Volatile generated validation summaries include timestamps/commit ids and are regenerated locally.
 build/output/supplemental-assets/04-validation-reports/supplemental-assets-validation-report.md
+# Generated supplemental inventories are rebuilt locally and are not stable across branches.
+build/output/supplemental-assets/04-validation-reports/source-inventory.csv

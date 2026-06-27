@@ -1,0 +1,4 @@
+# Prefer the supplemental build branch for generated build-system files during PR conflict checks.
+build/README.md merge=ours
+build/build_supplemental_assets.py merge=ours
+build/output/supplemental-assets/04-validation-reports/source-inventory.csv merge=ours
