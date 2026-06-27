@@ -43,4 +43,4 @@ Do not fabricate screenshots, videos, logos, deployed forms, SharePoint resource
 
 ## Version-control note
 
-Binary DOCX/PDF/ZIP/MP4 deliverables are not committed. Re-run the build commands after checkout to recreate reviewable text artifacts. Markdown, CSV, JSON, and VTT files remain reviewable text artifacts.
+Binary DOCX/PDF/ZIP/MP4 deliverables are not committed. Re-run the build commands after checkout to recreate reviewable text artifacts. Markdown, CSV, JSON, and VTT files remain reviewable text artifacts. The timestamped supplemental summary validation report is regenerated locally and ignored to avoid merge conflicts; use the committed CSV inventory reports for PR review.
