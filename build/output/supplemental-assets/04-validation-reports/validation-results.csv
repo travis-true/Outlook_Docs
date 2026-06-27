@@ -1,0 +1,47 @@
+status,check
+pass,Take-Control-of-Your-Inbox_Outlook-iPadOS_Task-Map_v1.0.docx is ZIP/OOXML
+pass,Task Map title present
+pass,real table markup present
+pass,brand colors present
+pass,brand typography present
+pass,portrait page setup present
+warn,python-docx not installed in this environment; dependency is declared and OOXML ZIP validation completed
+pass,Which-Outlook-Am-I-Using_Decision-Card_v1.0.docx is ZIP/OOXML
+pass,Which Outlook Am I Using? title present
+pass,real table markup present
+pass,brand colors present
+pass,brand typography present
+pass,portrait page setup present
+warn,python-docx not installed in this environment; dependency is declared and OOXML ZIP validation completed
+pass,Take-Control-of-Your-Inbox_Outlook-iPadOS_Quick-Fixes_v1.0.docx is ZIP/OOXML
+pass,Quick Fixes title present
+pass,real table markup present
+pass,brand colors present
+pass,brand typography present
+pass,portrait page setup present
+warn,python-docx not installed in this environment; dependency is declared and OOXML ZIP validation completed
+pass,Take-Control-of-Your-Inbox_Outlook-iPadOS_Shared-Mailbox-QRG_v1.0.docx is ZIP/OOXML
+pass,Shared Mailbox QRG title present
+pass,real table markup present
+pass,brand colors present
+pass,brand typography present
+pass,portrait page setup present
+warn,python-docx not installed in this environment; dependency is declared and OOXML ZIP validation completed
+pass,Take-Control-of-Your-Inbox_Outlook-iPadOS_Copilot-Troubleshooting_v1.0.docx is ZIP/OOXML
+pass,Copilot Troubleshooting title present
+pass,real table markup present
+pass,brand colors present
+pass,brand typography present
+pass,portrait page setup present
+warn,python-docx not installed in this environment; dependency is declared and OOXML ZIP validation completed
+pass,Take-Control-of-Your-Inbox_Outlook-iPadOS_Search-Gestures-Shortcuts_v1.0.docx is ZIP/OOXML
+pass,"Search, Gestures, and Shortcuts title present"
+pass,real table markup present
+pass,brand colors present
+pass,brand typography present
+pass,landscape page setup present
+warn,python-docx not installed in this environment; dependency is declared and OOXML ZIP validation completed
+pass,"three required source Markdown files used: 13. Supplemental support package.md, BCBSKS-ID-Prompt-Guide-v4.0.md, BCBSKS_Master_Brand_Kit.md"
+pass,screenshot plan source used where relevant
+pass,video package contains eight production folders
+pass,forms package contains required XLSX files

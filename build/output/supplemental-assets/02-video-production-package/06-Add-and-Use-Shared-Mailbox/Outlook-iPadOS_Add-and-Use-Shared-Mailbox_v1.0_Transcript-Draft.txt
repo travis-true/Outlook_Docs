@@ -1,0 +1,17 @@
+## Video 6 — Add and use a shared mailbox  
+## Learning goal  
+Add, switch, search and send from a shared mailbox.  
+## Scene sequence  
+1. Open the account menu.  
+2. Select Add Account.  
+3. Select Add a Shared Mailbox.  
+4. Enter the mailbox.  
+5. Open Shared Inbox.  
+6. Review Shared Sent.  
+7. Compose from the shared account.  
+8. Confirm the shared sending address.  
+9. Update the team status.  
+## End card  
+Confirm ownership, account and From address.
+
+Transcript draft requires final timing after recording.
