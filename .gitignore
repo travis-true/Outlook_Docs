@@ -5,3 +5,6 @@ build/output/*.pdf
 # Python cache files
 __pycache__/
 *.py[cod]
+
+# Volatile generated validation summaries include timestamps/commit ids and are regenerated locally.
+build/output/supplemental-assets/04-validation-reports/supplemental-assets-validation-report.md
