@@ -1,0 +1,16 @@
+## Video 4 — Flag, Snooze or swipe?  
+## Learning goal  
+Choose the correct mobile follow-up action.  
+## Scene sequence  
+1. Flag one message.  
+2. Snooze another.  
+3. Show configured swipe actions.  
+4. Use the comparison:  
+* Track unfinished work → Flag  
+* Return later → Snooze  
+* Complete a frequent action quickly → Swipe  
+## End card  
+**Visible beats remembered.**  
+  
+## Production status
+Not recorded. Requires direct managed iPad screen recording with dummy content.

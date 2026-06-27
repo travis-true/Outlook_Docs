@@ -1,0 +1,9 @@
+{
+  "forms": [
+    "Resource feedback",
+    "Report outdated instructions"
+  ],
+  "deployed": false,
+  "approval_result": null,
+  "no_fabrication": true
+}
