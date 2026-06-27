@@ -1,0 +1,7 @@
+# Generated Word/PDF deliverables are created locally by the build command.
+build/output/*.docx
+build/output/*.pdf
+
+# Python cache files
+__pycache__/
+*.py[cod]
